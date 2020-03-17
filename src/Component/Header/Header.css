@@ -1,0 +1,21 @@
+.header{
+    text-align: center;
+    width:70%;
+    height: 250px;
+    background-color: rgb(3, 151, 250);
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    
+   
+}
+.user-head{
+    font-size: 40px;
+}
+.user-searce{
+    font-size: 20px;
+}
+.input{
+    margin-right: 5px;
+    text-align: center;
+}

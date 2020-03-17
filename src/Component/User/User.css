@@ -1,0 +1,29 @@
+
+.user-data{
+    width: 700px;
+    background-color: rgba(192, 188, 188, 0.979);
+    height: 300px;
+    padding-left: 50px;
+    margin-bottom: 50px;
+    border-radius: 8px;
+    border: 2px solid rgb(25, 206, 40);
+    display: flex;
+    
+}
+
+.information{
+    margin-left: 20px;
+    display: block;
+    width: 100%;
+    
+}
+.user-image{
+    width: 250px;
+    height: 200px;
+}
+
+.btn{
+    width: 100px;
+    height: 30px;
+    background-color: rgba(25, 246, 173, 0.417);
+}
